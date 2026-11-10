@@ -1,0 +1,18 @@
+REZENDE TRADER AUTOMAÇÃO — SITE ESTÁTICO
+Arquivos: index.html, termos-de-uso.html, politica-de-privacidade.html, style.css e .nojekyll
+
+IMPORTANTE ANTES DE PUBLICAR:
+1. Contato público inserido: joneyfaria2026@gmail.com.
+2. Revise o conteúdo para corresponder exatamente à forma como o sistema realmente funcionará.
+3. Nenhum código de login, tokens, chaves ou segredo deve ser colocado neste repositório público.
+
+PUBLICAÇÃO GRATUITA NO GITHUB PAGES
+A. Crie uma conta em https://github.com/ ou entre na que já tem.
+B. Crie um repositório público chamado rezende-trader-automacao.
+C. Envie TODOS os arquivos deste pacote para a raiz do repositório, descompactados (não envie apenas o ZIP).
+D. Em Settings > Pages > Build and deployment, escolha Deploy from a branch, branch main, /(root). Clique Save.
+E. O endereço publicado poderá ser parecido com https://SEU_USUARIO.github.io/rezende-trader-automacao/ (CONFIRME NO PRÓPRIO GITHUB).
+F. Copie as URLs REAIS das páginas termos-de-uso.html e politica-de-privacidade.html no TikTok for Developers.
+G. TikTok exige verificar a propriedade de URLs. Em URL properties > Verify properties, escolha URL prefix e siga o procedimento exibido; se o TikTok fornecer um arquivo de assinatura, envie-o para a rota exigida no site estático.
+
+LIMITE IMPORTANTE: o site estático serve apenas de documentação e apresentação. Ele NÃO publica vídeos no TikTok, não hospeda backend Python nem OAuth. Antes de submeter o aplicativo para aprovação, deverá existir uma integração operacional demonstrável. Segundo as regras do TikTok, aplicativos exclusivamente para uso pessoal podem não ser aprovados.
