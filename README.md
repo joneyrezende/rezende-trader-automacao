@@ -1,0 +1,1 @@
+# rezende-trader-automacao
